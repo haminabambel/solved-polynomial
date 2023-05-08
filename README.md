@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-polynomial
+<br>
+Write a class Polynomial that stores a polynomial such asp(x) = 5x10 + 9x7 – x – 10as a linked list of terms. A term contains the coefficient and the power of x. For example, youwould store p(x) as(5,10),(9,7),(-1,1),(-10,0)Supply methods to add, multiply, and print polynomials. Supply a constructor that makes apolynomial from a single term. For example, the polynomial p can be constructed asPolynomial p = new Polynomial(new Term(-10, 0));p.add(new Polynomial(new Term(-1, 1));p.add(new Polynomial(new Term(9, 7));p.add(new Polynomial(new Term(5, 10));Then compute p(x) x p(x)Polynomial q = p.multiply(p);q.print();
+
+Please use the file &gt; export &gt; to zip option in NetBeans. The zip file should be namedFirstNameLastNameA9.zip.Lab 9Follow all directions in the COP3337 Lab Rules for Submitting Programs.
